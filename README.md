@@ -2,7 +2,7 @@
 
 [Ethan Baron](https://baronet2.github.io/), [Shmuel Berman](https://shmuelberman.com/), [Anirudh Satheesh](https://anirudhsatheesh.com/), [Akshay Vegesna](https://www.akshayvegesna.com/), [Samip Dahal](https://x.com/industriaalist), [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/)
 
-Paper: https://arxiv.org/abs/2610.XXXXX
+Paper: https://arxiv.org/abs/2610.37842
 
 ![Figure](figure.png)
 
@@ -22,13 +22,13 @@ Please cite our paper as follows:
 @article{baron2026dataconstrained,
   title         = {Improving Data-Constrained Scaling with Hyperparameter Transfer and Ensembling},
   author        = {Baron, Ethan and Berman, Shmuel and Satheesh, Anirudh and Vegesna, Akshay and Dahal, Samip and Wilson, Andrew Gordon},
-  journal       = {arXiv preprint arXiv:2610.XXXXX},
-  eprint        = {2610.XXXXX},
+  journal       = {arXiv preprint arXiv:2610.37842},
+  eprint        = {2610.37842},
   archivePrefix = {arXiv},
   primaryClass  = {cs.LG},
   year          = {2026},
   month         = {oct},
-  url           = {https://arxiv.org/abs/2610.XXXXX}
+  url           = {https://arxiv.org/abs/2610.37842}
 }
 ```
 
